@@ -52,7 +52,7 @@ def sorted_matrix
   "Asparagus"]
     ]
   
-    storage_room=.sort
+    storage_room[1].sort
 end
 
 def matrix_lookup(matrix, row, column)
